@@ -47,8 +47,8 @@
 
 ### 📊 GitHub Stats & Streak
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub Streak" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Malixamran-01&show_icons=true&theme=radical" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Malixamran-01&theme=radical" alt="GitHub Streak" height="165"/>
 </p> 
 
 ---
@@ -58,7 +58,7 @@
 <a href="https://github.com/Malixamran-01"><img src="https://img.icons8.com/fluency/48/000000/github.png" alt="GitHub"/></a>
 <a href="https://www.linkedin.com/in/mohd-malik-samran-05a10b338"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="LinkedIn"/></a>
 <a href="https://leetcode.com/u/Malixamran"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="LeetCode"/></a>
-<a href="https://www.malixamran.in"><img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/48/000000/external-portfolio-web-flaticons-lineal-color-flat-icons.png" alt="Portfolio"/></a>
+<a href="https://www.malixamran.in"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/internetarchive.svg" width= "48px" alt="Portfolio"/></a>
 </p>
 
 ---
